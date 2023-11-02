@@ -1,0 +1,1 @@
+The Vue Frontend for our book management application
